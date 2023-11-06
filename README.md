@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiguelRamosLop
 - 👀 I’m interested in IA, Big Data, IT stuff
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 I have a degree in Computer Engineering, and I'm currently furthering my knowledge and skills in the field
 - 📫 How to reach me miguelon2001b@gmail.com or https://www.linkedin.com/in/miguel-ramos-l%C3%B3pez-300aa0218/
 
 <!---
