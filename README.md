@@ -1,6 +1,7 @@
 <!-- Your text section -->
 <div align="center">
   <h1>👋 Hi, I’m @MiguelRamosLop</h1>
+  <h3>🚀 Miguel Ramos Lopez | Computer Engineer | AI Enthusiast 🚀</h3>
   <p>👀 I’m interested in IA, Big Data, IT stuff</p>
   <p>🌱 With a BEng in Computer Engineering, I'm currently furthering my knowledge and skills in the field</p>
   <p>📫 How to reach me?
@@ -37,7 +38,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
-
+<div align="center" id="stats">
+  <h2> :fire: My Stats : </h2>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelRamosLop" alt="GitHub Streak" />
+  </a>
+</div>
 
 <!---
 MiguelRamosLop/MiguelRamosLop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
